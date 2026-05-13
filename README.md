@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jon 🧠
 
 <p align="center">
-  A Data & ML Engineer passionate about turning data into decisions.
+  A Data & BI Engineer/analyst passionate about turning data into decisions.
 </p>
 
 <p align="center">
